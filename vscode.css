@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:dimgray ;
+
+}
+
+body{
+    display:flex ;
+    flex-direction: column;
+}
+
+nav div ul li{
+    display: flex;
+    background-color:dimgray ;
+}
+
+#vscode{
+    color: white;
+}
